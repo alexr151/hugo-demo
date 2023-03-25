@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>css on Hugo Demo</title>
+    <link>/tags/css/</link>
+    <description>Recent content in css on Hugo Demo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 25 Mar 2023 15:15:19 -0500</lastBuildDate><atom:link href="/tags/css/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>/posts/my-first-post/</link>
+      <pubDate>Sat, 25 Mar 2023 15:15:19 -0500</pubDate>
+      
+      <guid>/posts/my-first-post/</guid>
+      <description>Introduction And now a little bit about myself laskdjalejfloaenf ane</description>
+    </item>
+    
+  </channel>
+</rss>
